@@ -63,12 +63,14 @@ void main() {
 
 				switch (opcion2) {
 				case '1':
-					printf("Usted ha abandonado la plaza 1...¡Vuelva pronto!\n");
+					printf("Usted ha abandonado la plaza 1...Â¡Vuelva pronto!\n");
+					plaza1 = 0;
 					system("PAUSE");
 					system("cls");
 					break;
 				case '2':
-					printf("Usted ha abandonado la plaza 2...¡Vuelva pronto!\n");
+					printf("Usted ha abandonado la plaza 2...Â¡Vuelva pronto!\n");
+					plaza2 = 0;
 					system("PAUSE");
 					system("cls");
 					break;
