@@ -109,8 +109,8 @@ void main() {
 				system("cls");
 			}
 			else {
-				printf("Plaza A - Ocupada - Matricula %s \n", matricula1);
-				printf("Plaza B - Ocupada - Matricula %s \n", matricula2);
+				printf("Plaza 1 - Ocupada - Matricula %s \n", matricula1);
+				printf("Plaza 2 - Ocupada - Matricula %s \n", matricula2);
 				system("PAUSE");
 				system("cls");
 			}
